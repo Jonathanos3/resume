@@ -1,6 +1,6 @@
 # JonathanOliveira (resume)
 
-Este projeto é o código-fonte do curriculo online de Jonathan Oliveira, disponível em https://github.com/jonathanos3
+Este projeto é o código-fonte do curriculo online de Jonathan Oliveira, disponível em https://github.com/jonathanos3/resume
 
 ![Preview](https://github.com/jonathanos3/resume/blob/master/PrintTela.png?raw=true)
 
