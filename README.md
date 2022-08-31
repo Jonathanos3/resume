@@ -2,7 +2,7 @@
 
 Este projeto é o código-fonte do curriculo online de Jonathan Oliveira, disponível em https://github.com/jonathanos3
 
-![Preview](https://github.com/jonathanos3/resume/blob/master/printTela.png?raw=true)
+![Preview](https://github.com/jonathanos3/resume/blob/master/PrintTela.png?raw=true)
 
 ## Início
 
